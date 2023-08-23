@@ -16,4 +16,3 @@ This project focuses on improving the accuracy of email classification using a s
 By leveraging the stacked classifier and fine-tuning its parameters, this project demonstrates the potential to improve accuracy, particularly in cases where certain classes are underrepresented.
 
 Feel free to explore the code and experiment with the techniques used here to enhance your own email classification tasks.
-
